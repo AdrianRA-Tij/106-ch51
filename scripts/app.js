@@ -1,7 +1,7 @@
-
 function Hello() {
 console.log("Hello there!");
 }
+
 let global = 0;
 function init() 
 {S
